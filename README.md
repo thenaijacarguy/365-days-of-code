@@ -10,7 +10,7 @@ The goal is to stay consistent, sharpen problem-solving skills, and deepen my un
 
 ---
 
-## 📌 Challenge Rules
+##  Challenge Rules
 - Solve **at least one problem daily**
 - Problems come from **HackerRank** and **LeetCode**
 - Solutions are written in **Python** or **SQL**
@@ -21,7 +21,7 @@ The goal is to stay consistent, sharpen problem-solving skills, and deepen my un
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Build strong daily coding habits
 - Improve speed and accuracy in technical interviews
 - Create a public log of growth and consistency
@@ -29,19 +29,19 @@ The goal is to stay consistent, sharpen problem-solving skills, and deepen my un
 
 ---
 
-## 🛠 Tools & Platforms
+##  Tools & Platforms
 - **Languages:** Python, SQL  
 - **Platforms:** HackerRank, LeetCode  
 
 ---
 
-## 📅 Timeline
+##  Timeline
 **Start:** January 2026  
 **End:** December 2026  
 
 ---
 
-## 🤝 Contributions
+##  Contributions
 This is a personal challenge, but feel free to:
 - Explore the solutions
 - Suggest improvements
@@ -49,6 +49,6 @@ This is a personal challenge, but feel free to:
 
 ---
 
-## ⭐ Motivation
+##  Motivation
 Consistency beats intensity.  
 One problem a day for a year adds up to mastery.
